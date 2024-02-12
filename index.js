@@ -7,6 +7,6 @@ curver.addEventListener("click", myFunction);
 function myFunction() {
     alert("ran")
     for (var i = 0; i <= 100; i = i+1){
-        animA.style.borderRadius = i;
+        animA.style.borderRadius = i+"px";
     }
 }
