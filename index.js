@@ -1,7 +1,7 @@
 alert("Oops");
 var animA = document.getElementById("animA");
 
-const button = document.querySelector('curver') 
+const button = document.querySelector('.curver') 
  
 button.addEventListener('click', e => { 
 	alert('I have been clicked'); 
